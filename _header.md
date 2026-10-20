@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# Digital Twins Instance
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Resource Module for Digital Twins Instance
